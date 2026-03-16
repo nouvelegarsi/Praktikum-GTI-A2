@@ -36,14 +36,13 @@ Pada tugas ini dibuat sebuah mobil 2D menggunakan beberapa objek primitif OpenGL
 
 ##### b. <img width="1920" height="1080" alt="Screenshot (20)" src="https://github.com/user-attachments/assets/d43ef9e9-b9bb-4a9b-8c55-0a7decab22b3" />
 
+##### c. <img width="1920" height="1080" alt="Screenshot (30)" src="https://github.com/user-attachments/assets/04de6dc8-105f-44f1-b091-dcaa0b355f30" />
 
-##### c. <img width="1920" height="1080" alt="Screenshot (21)" src="https://github.com/user-attachments/assets/fa1b3baf-1b11-43a5-a7b9-23ea28577fc8" />
+##### d. <img width="1920" height="1080" alt="Screenshot (31)" src="https://github.com/user-attachments/assets/70d55f95-f774-4892-8666-cc4d5e5266e6" />
 
-##### d. <img width="1920" height="1080" alt="Screenshot (22)" src="https://github.com/user-attachments/assets/9cd58439-15cc-480e-a885-ae42d175f12c" />
-
-##### e. <img width="1920" height="1080" alt="Screenshot (23)" src="https://github.com/user-attachments/assets/3f1e69aa-b4e6-452c-b1a1-4728dc174f8d" />
-
+##### e. <img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/4ae195e8-2b19-47d0-bdb8-f9d78c704892" />
 
 #### Gambar : 
-<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/ffe4658c-03cc-4e9a-8540-a675ee89bd3c" />
+<img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/c0774a07-3298-44c1-ae85-b1a7b6cab015" />
+
 
