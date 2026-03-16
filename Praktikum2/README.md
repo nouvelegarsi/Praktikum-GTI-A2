@@ -43,6 +43,7 @@ Pada tugas ini dibuat sebuah mobil 2D menggunakan beberapa objek primitif OpenGL
 ##### e. <img width="1920" height="1080" alt="Screenshot (32)" src="https://github.com/user-attachments/assets/4ae195e8-2b19-47d0-bdb8-f9d78c704892" />
 
 #### Gambar : 
-<img width="1920" height="1080" alt="Screenshot (29)" src="https://github.com/user-attachments/assets/c0774a07-3298-44c1-ae85-b1a7b6cab015" />
+<img width="1920" height="1080" alt="Screenshot (33)" src="https://github.com/user-attachments/assets/cc591f02-65dd-4e8f-92ab-922f222456d4" />
+
 
 
